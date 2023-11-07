@@ -1,2 +1,4 @@
 # ndactivities
 Code for NDActivities, a website to find and post activities and extracurriculars for special-needs students.
+
+This website is aimed towards both people with special needs/their caretakers as well as service providers. Neurodivergent people/their caretakers will be able to search and filter through a database of events through an in-app filtering system. Service providers will be able to post events with dates/times, activities, age range, location, and more. The front-end system is developed with HTML, CSS, and JS where I design page layouts for the website. The back-end API uses Flask and PostgreSQL for database management. Currently, the website only supports one-time events, and only service providers can make accounts, but I will add an update to support recurring events and user account creation. I am also considering making an app version of the website, but that will come after the website is robust and publically hosted.
